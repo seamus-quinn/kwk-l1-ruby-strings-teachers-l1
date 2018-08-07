@@ -13,3 +13,7 @@ party_name = gets.chomp
 puts "Awesome, next we need to know the date."
 
 date = gets.chomp
+
+puts "And the time!"
+
+time = gets.chomp
