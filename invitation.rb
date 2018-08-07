@@ -19,3 +19,5 @@ puts "And the time!"
 time = gets.chomp
 
 puts "Who will be hosting the party?"
+
+host_name = gets.chomp
