@@ -17,3 +17,5 @@ date = gets.chomp
 puts "And the time!"
 
 time = gets.chomp
+
+puts "Who will be hosting the party?"
