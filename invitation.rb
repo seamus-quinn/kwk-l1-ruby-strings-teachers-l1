@@ -21,3 +21,5 @@ time = gets.chomp
 puts "Who will be hosting the party?"
 
 host_name = gets.chomp
+
+puts "#{guest_name}, you are having a #{party_name} party on #{date} at #{time}.  Please contact #{host_name} if you have any questions!"
